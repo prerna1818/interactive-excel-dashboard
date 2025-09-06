@@ -1,7 +1,8 @@
 # Bhoomika-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 
 Project Objective
-The Bhoomika Store wants to create an annual sales report. So that, the owner of the Bhoomika store can understand their customers and grow more sales in upcoming years.
+
+The Bhoomika Store wants to create an annual sales report so the owner can understand their customers better and grow more sales in upcoming years.
 
 # Questions (KPIs)
 1. Compare the sales and orders using single chart.
@@ -28,7 +29,9 @@ The Bhoomika Store wants to create an annual sales report. So that, the owner of
 3. Created pivot tables according to the questions asked.
 4. Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-# Dashboard
+# Dashboard 
+<img width="1687" height="708" alt="dashboard" src="https://github.com/user-attachments/assets/6e5e93a5-ac32-4888-977a-410a58d0bc52" />
+
 
 # Project Insights
 1. Women customers are more likely to buy products compared to men (~64%).
@@ -38,4 +41,4 @@ The Bhoomika Store wants to create an annual sales report. So that, the owner of
 5. More than 90% of the products delivered.
 
 # Final Conclusion:
-To improve the sales of Bhoomika Store, a strategic marketing plan focused on adult women residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To improve the sales of Bhoomika Store a strategic marketing plan focused on adult women residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
