@@ -5,7 +5,7 @@
 The Bhoomika Store wants to create an annual sales report so the owner can understand their customers better and grow more sales in upcoming years.
 
 ## Dataset used
-- 
+- <a href="https://github.com/prerna1818/interactive-excel-dashboard/blob/main/Raw_data.xlsx">Dataset</a>
 
 ## Business Queries Addressed 
 1. Compare the sales and orders using single chart.
@@ -27,6 +27,7 @@ The Bhoomika Store wants to create an annual sales report so the owner can under
 9. Percentage of Total Orders delivered
 
 ## Process
+
 1.Verify data for any missing values and anomalies, and sort out the same.
 
 2. Made sure data is consistent and clean with respect to data type, data format and values used.
@@ -42,7 +43,8 @@ The Bhoomika Store wants to create an annual sales report so the owner can under
 
 # Project Insights & Strategy
 1. Women customers are more likely to buy products compared to men (~64%).
-- Strategy:
+- Strategy
+  
   -Launch women-centric promotions, loyalty programs, and exclusive product bundles.
 
   -Tailor ad creatives and campaigns to highlight female preferences and shopping patterns.
@@ -50,7 +52,8 @@ The Bhoomika Store wants to create an annual sales report so the owner can under
   -Introduce referral discounts targeting women to bring in more female buyers.
 
 2. The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- Strategy:
+- Strategy
+  
   -Invest more in localized marketing (ads in regional languages, state-specific offers).
   
   -Strengthen supply chain and delivery partners in these states to reduce delivery time.
@@ -58,23 +61,26 @@ The Bhoomika Store wants to create an annual sales report so the owner can under
   -Open pop-up stores, regional warehouses, or special promotions targeting festivals in these areas.
   
 3. The adult age group is max contributing and buys the most products.
-- Strategy:
-   - Focus marketing on adults’ needs (career, family, lifestyle, utility products).
+- Strategy
+  
+   -Focus marketing on adults’ needs (career, family, lifestyle, utility products).
 
    -Offer EMI options, value packs, and combo deals that suit working professionals.
 
    -Use social media channels (LinkedIn, Instagram, Facebook) where adult buyers are more active.
   
 4.  The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- Strategy:
-   - Strengthen product visibility with ads, sponsored listings, and deals on these platforms.
+- Strategy
+  
+   -Strengthen product visibility with ads, sponsored listings, and deals on these platforms.
 
    -Study reviews & ratings there to identify customer pain points and improve products.
 
    -Partner with these platforms for seasonal campaigns like Big Billion Days or Great Indian Festival.
   
 5. More than 90% of the products delivered.
-- Strategy:
+- Strategy
+  
    -Highlight high fulfillment rate in marketing to build trust. (“9/10 customers get on-time delivery”).
 
    -Use this as leverage to gain “preferred seller” or “fulfilled by” tags on marketplaces.
