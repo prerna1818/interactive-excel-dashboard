@@ -28,7 +28,7 @@ The Bhoomika Store wants to create an annual sales report so the owner can under
 
 ## Process
 
-1.Verify data for any missing values and anomalies, and sort out the same.
+ 1. Verify data for any missing values and anomalies, and sort out the same.
 
 2. Made sure data is consistent and clean with respect to data type, data format and values used.
    
