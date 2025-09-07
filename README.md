@@ -1,4 +1,4 @@
-# Bhoomika-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# Bhoomika-Store-Data-Analysis (Interactive Purchase Behaviour Dashboard creation using MS Excel)
 
 ## Project Objective
 
