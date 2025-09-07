@@ -28,13 +28,13 @@ The Bhoomika Store wants to create an annual sales report so the owner can under
 
 ## Process
 
- 1. Verify data for any missing values and anomalies, and sort out the same.
+ 1. Verified data for any missing values and anomalies to sort out the same.
 
 2. Made sure data is consistent and clean with respect to data type, data format and values used.
    
 3. Created pivot tables according to the questions asked.
  
-4. Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+4. Merged all pivot tables into one dashboard and applied slicers to make it dynamic.
    
 
 # Dashboard 
